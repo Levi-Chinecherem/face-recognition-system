@@ -1,7 +1,7 @@
 
 # Face Recognition System
 
-![Face Recognition System Logo](images/logo.png)
+![Face Recognition System Logo](https://github.com/Levi-Chinecherem/face-recognition-system/blob/main/sample%20output/Screenshot%20(6).png)
 
 The Face Recognition System is an application that uses the face_recognition library to recognize and label faces in a real-time video stream. This README provides detailed information about the system, its features, requirements, installation, and usage.
 
@@ -34,7 +34,7 @@ The Face Recognition System is an application that uses the face_recognition lib
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/face-recognition-system.git
+   git clone https://github.com/Levi-Chinecherem/face-recognition-system.git
    ```
 2. Create a virtual environment (recommended) and activate it:
 
@@ -62,7 +62,7 @@ The Face Recognition System is an application that uses the face_recognition lib
 6. Start the face recognition system:
 
    ```bash
-   python face_recognition_system.py
+   python recognize_faces.py
    ```
 
 ## Usage
@@ -71,7 +71,7 @@ The Face Recognition System is an application that uses the face_recognition lib
 2. It will recognize and label faces if they match the known faces from your training data.
 3. Recognized faces will be labeled with their respective names on the screen.
 
-![Face Recognition System Screenshot](images/face_recognition_system.png)
+![Face Recognition System Screenshot](https://github.com/Levi-Chinecherem/face-recognition-system/blob/main/sample%20output/Screenshot%20(11).png)
 
 ## Contributing
 
